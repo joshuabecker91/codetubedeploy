@@ -17,6 +17,7 @@ Videos render randomly when on the home page. Dashboard page renders only the vi
 Majority of CSS clone styling done manually to demonstrate proficiency in CSS styling.
 
 AWS EC2 Deployed http://54.153.114.188/
+
 https://github.com/joshuabecker91/codetube
 
 "# codetubedeploy" 
